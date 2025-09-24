@@ -1,0 +1,226 @@
+body{
+    background-color: green;
+}
+
+.card1{
+    height: 9rem;
+    width: 6rem;
+    background-color: white;
+    border-radius: .5rem;
+}
+.circle1{
+    height: 2rem;
+    width: 2rem;
+    background-color: red;
+    position: absolute;
+    border-radius: 2rem;
+    top: 3.5rem;
+    left: 3.2rem;
+}
+
+.circle2{
+    height: 2rem;
+    width: 2rem;
+    background-color: red;
+    position: absolute;
+    border-radius: 2rem;
+    top: 3.5rem;
+    left: 1.7rem;
+}
+
+.triangle{
+    background-color: red;
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-left: 1.6rem solid white;
+    border-right: 1.7rem solid white;
+    border-top: 1.6rem solid red;
+    top: 5rem;
+    left: 1.8rem;
+}
+
+.a1{
+    position: absolute;
+    top: ;
+    left: 0.6rem;
+}
+.a2{
+    position: absolute;
+    top: 8.5rem;
+    left: 5.5rem;
+}
+
+.card2{
+     height: 9rem;
+    width: 6rem;
+    background-color: white;
+    border-radius: .5rem;
+    position: absolute;
+    top: 0.5rem;
+    left: 10rem;
+}
+
+.triangle1{
+    background-color: red;
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-left: 1.3rem solid white;
+    border-right: 1.3rem solid white;
+    border-top: 2.1rem solid red;
+    top: 4.4rem;
+    left: 1.5rem;
+}
+
+.triangle2{
+    background-color: red;
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-left: 1.3rem solid white;
+    border-right: 1.3rem solid white;
+    border-bottom: 2.4rem solid red;
+    top: 2rem;
+    left: 1.5rem;
+    
+}
+
+.ca1{
+    position: absolute;
+    left: 0.1rem;
+}
+
+.ca2{
+    position: absolute;
+    top: 8rem;
+    left: 5rem;
+}
+
+.card3{
+    height: 9rem;
+    width: 6rem;
+    background-color: white;
+    border-radius: .5rem;
+    position: absolute;
+    top: 0.5rem;
+    left: 20rem;
+} 
+
+.circle3{
+    height: 2rem;
+    width: 2rem;
+    background-color: black;
+    position: absolute;
+    border-radius: 2rem;
+    top: 3.5rem;
+    left: 3rem;
+}
+
+.circle4{
+    height: 2rem;
+    width: 2rem;
+    background-color: black;
+    position: absolute;
+    border-radius: 2rem;
+    top: 3.5rem;
+    left: 1.3rem;
+}
+
+.triangle3{
+    background-color: black;
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-left: 1.6rem solid white;
+    border-right: 1.7rem solid white;
+    border-bottom: 1.7rem solid black;
+    top: 2.2rem;
+    left: 1.5rem
+}
+
+.triangle4{
+     background-color: black;
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-left: 0.4rem solid white;
+    border-right: 0.4rem solid white;
+    border-bottom: 1rem solid black;
+    top: 5.4rem;
+    left: 2.7rem
+}
+
+.c3a1{
+    position: absolute;
+    left: 0.1rem;
+}
+
+.c3a2{
+    position: absolute;
+    top: 8rem;
+    left: 5rem;
+}
+
+.card4{
+    height: 9rem;
+    width: 6rem;
+    background-color: white;
+    border-radius: .5rem;
+    position: absolute;
+    top: 0.5rem;
+    left: 30rem;
+}
+
+.circle5{
+     height: 2rem;
+    width: 2rem;
+    background-color: black;
+    position: absolute;
+    border-radius: 2rem;
+    top: 3.5rem;
+    left: 1.3rem;
+}
+
+.circle6{
+    height: 2rem;
+    width: 2rem;
+    background-color: black;
+    position: absolute;
+    border-radius: 2rem;
+    top: 3.5rem;
+    left: 3rem;
+}
+
+.circle7{
+    height: 2rem;
+    width: 2rem;
+    background-color: black;
+    position: absolute;
+    border-radius: 2rem;
+    top: 2rem;
+    left: 2.2rem;
+}
+
+.triangle5{
+    background-color: black;
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-left: 0.4rem solid white;
+    border-right: 0.4rem solid white;
+    border-bottom: 1rem solid black;
+    top: 5.4rem;
+    left: 2.7rem
+}
+
+.c4a1{
+    position: absolute;
+    left: 0.1rem;
+}
+
+.c4a2{
+    position: absolute;
+    top: 8rem;
+    left: 5rem;
+}
